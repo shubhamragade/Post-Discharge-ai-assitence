@@ -1,0 +1,316 @@
+[
+  {
+    "patient_name": "John Smith",
+    "discharge_date": "2024-02-24",
+    "primary_diagnosis": "Hypothyroidism",
+    "medications": [
+      "Ibuprofen 400mg as needed"
+    ],
+    "dietary_restrictions": "Low sugar, diabetic-friendly diet",
+    "follow_up": "Endocrinology in 3 weeks",
+    "warning_signs": "Abdominal pain, black stools",
+    "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily"
+  },
+  {
+    "patient_name": "Emily Johnson",
+    "discharge_date": "2024-03-07",
+    "primary_diagnosis": "Chronic Back Pain",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": "High protein diet",
+    "follow_up": "General physician in 1 week",
+    "warning_signs": "Severe fatigue, jaundice",
+    "discharge_instructions": "Avoid lifting heavy objects"
+  },
+  {
+    "patient_name": "Michael Brown",
+    "discharge_date": "2024-03-21",
+    "primary_diagnosis": "Osteoarthritis",
+    "medications": [
+      "Prednisolone 10mg daily",
+      "Salbutamol inhaler as needed"
+    ],
+    "dietary_restrictions": "Normal diet with hydration",
+    "follow_up": "Psychiatric consultation in 3 weeks",
+    "warning_signs": "Mood changes, suicidal thoughts",
+    "discharge_instructions": "Get adequate rest and hydration"
+  },
+  {
+    "patient_name": "Sophia Davis",
+    "discharge_date": "2024-09-01",
+    "primary_diagnosis": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "medications": [
+      "Sertraline 50mg daily"
+    ],
+    "dietary_restrictions": "Soft diet, avoid spicy food",
+    "follow_up": "ENT clinic after 1 week",
+    "warning_signs": "Swelling, shortness of breath, decreased urine output",
+    "discharge_instructions": "Check blood sugar levels twice daily"
+  },
+  {
+    "patient_name": "Liam Wilson",
+    "discharge_date": "2024-05-08",
+    "primary_diagnosis": "Chronic Sinusitis",
+    "medications": [
+      "Ibuprofen 400mg as needed"
+    ],
+    "dietary_restrictions": "Low sugar, diabetic-friendly diet",
+    "follow_up": "ENT clinic after 1 week",
+    "warning_signs": "High fever, persistent vomiting",
+    "discharge_instructions": "Get adequate rest and hydration"
+  },
+  {
+    "patient_name": "Olivia Martinez",
+    "discharge_date": "2024-04-23",
+    "primary_diagnosis": "Chronic Back Pain",
+    "medications": [
+      "Sertraline 50mg daily"
+    ],
+    "dietary_restrictions": "Gluten-free diet",
+    "follow_up": "ENT clinic after 1 week",
+    "warning_signs": "Chest pain, dizziness, severe headache",
+    "discharge_instructions": "Check blood sugar levels twice daily"
+  },
+  {
+    "patient_name": "Noah Anderson",
+    "discharge_date": "2024-12-31",
+    "primary_diagnosis": "Asthma Exacerbation",
+    "medications": [
+      "Losartan 50mg daily",
+      "Aspirin 75mg daily"
+    ],
+    "dietary_restrictions": "Low sugar, diabetic-friendly diet",
+    "follow_up": "Nephrology clinic in 2 weeks",
+    "warning_signs": "Mood changes, suicidal thoughts",
+    "discharge_instructions": "Check blood sugar levels twice daily"
+  },
+  {
+    "patient_name": "Ava Thomas",
+    "discharge_date": "2024-11-19",
+    "primary_diagnosis": "Migraine Headache",
+    "medications": [
+      "Prednisolone 10mg daily",
+      "Salbutamol inhaler as needed"
+    ],
+    "dietary_restrictions": "Gluten-free diet",
+    "follow_up": "Nephrology clinic in 2 weeks",
+    "warning_signs": "Chest pain, dizziness, severe headache",
+    "discharge_instructions": "Avoid lifting heavy objects"
+  },
+  {
+    "patient_name": "William Taylor",
+    "discharge_date": "2024-03-18",
+    "primary_diagnosis": "Urinary Tract Infection",
+    "medications": [
+      "Omeprazole 20mg daily",
+      "Amoxicillin 500mg thrice daily"
+    ],
+    "dietary_restrictions": "Gluten-free diet",
+    "follow_up": "Nephrology clinic in 2 weeks",
+    "warning_signs": "Chest pain, dizziness, severe headache",
+    "discharge_instructions": "Use inhaler as prescribed, avoid allergens"
+  },
+  {
+    "patient_name": "Isabella Moore",
+    "discharge_date": "2024-01-24",
+    "primary_diagnosis": "Coronary Artery Disease",
+    "medications": [
+      "Sertraline 50mg daily"
+    ],
+    "dietary_restrictions": "Low fat, cardiac diet",
+    "follow_up": "Nephrology clinic in 2 weeks",
+    "warning_signs": "Chest pain, dizziness, severe headache",
+    "discharge_instructions": "Get adequate rest and hydration"
+  },
+  {
+    "patient_name": "James Jackson",
+    "discharge_date": "2024-12-30",
+    "primary_diagnosis": "Depression",
+    "medications": [
+      "Levothyroxine 50mcg daily"
+    ],
+    "dietary_restrictions": "Gluten-free diet",
+    "follow_up": "ENT clinic after 1 week",
+    "warning_signs": "Abdominal pain, black stools",
+    "discharge_instructions": "Continue physiotherapy exercises daily"
+  },
+  {
+    "patient_name": "Mia White",
+    "discharge_date": "2024-05-31",
+    "primary_diagnosis": "Hypertension",
+    "medications": [
+      "Metformin 500mg twice daily",
+      "Atorvastatin 20mg daily"
+    ],
+    "dietary_restrictions": "Low sugar, diabetic-friendly diet",
+    "follow_up": "General physician in 1 week",
+    "warning_signs": "High fever, persistent vomiting",
+    "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily"
+  },
+  {
+    "patient_name": "Benjamin Harris",
+    "discharge_date": "2024-12-04",
+    "primary_diagnosis": "Rheumatoid Arthritis",
+    "medications": [
+      "Metformin 500mg twice daily",
+      "Atorvastatin 20mg daily"
+    ],
+    "dietary_restrictions": "Low fat, cardiac diet",
+    "follow_up": "General physician in 1 week",
+    "warning_signs": "Difficulty breathing, wheezing",
+    "discharge_instructions": "Avoid lifting heavy objects"
+  },
+  {
+    "patient_name": "Charlotte Martin",
+    "discharge_date": "2024-06-15",
+    "primary_diagnosis": "Depression",
+    "medications": [
+      "Losartan 50mg daily",
+      "Aspirin 75mg daily"
+    ],
+    "dietary_restrictions": "Gluten-free diet",
+    "follow_up": "ENT clinic after 1 week",
+    "warning_signs": "Mood changes, suicidal thoughts",
+    "discharge_instructions": "Avoid lifting heavy objects"
+  },
+  {
+    "patient_name": "Lucas Thompson",
+    "discharge_date": "2024-04-22",
+    "primary_diagnosis": "Hypothyroidism",
+    "medications": [
+      "Sertraline 50mg daily"
+    ],
+    "dietary_restrictions": "Low sugar, diabetic-friendly diet",
+    "follow_up": "ENT clinic after 1 week",
+    "warning_signs": "Swelling, shortness of breath, decreased urine output",
+    "discharge_instructions": "Continue physiotherapy exercises daily"
+  },
+  {
+    "patient_name": "Amelia Garcia",
+    "discharge_date": "2024-09-23",
+    "primary_diagnosis": "Urinary Tract Infection",
+    "medications": [
+      "Prednisolone 10mg daily",
+      "Salbutamol inhaler as needed"
+    ],
+    "dietary_restrictions": "Soft diet, avoid spicy food",
+    "follow_up": "Psychiatric consultation in 3 weeks",
+    "warning_signs": "Abdominal pain, black stools",
+    "discharge_instructions": "Continue physiotherapy exercises daily"
+  },
+  {
+    "patient_name": "Henry Martinez",
+    "discharge_date": "2024-08-10",
+    "primary_diagnosis": "Asthma Exacerbation",
+    "medications": [
+      "Ibuprofen 400mg as needed"
+    ],
+    "dietary_restrictions": "High protein diet",
+    "follow_up": "Nephrology clinic in 2 weeks",
+    "warning_signs": "Mood changes, suicidal thoughts",
+    "discharge_instructions": "Avoid lifting heavy objects"
+  },
+  {
+    "patient_name": "Evelyn Robinson",
+    "discharge_date": "2024-07-30",
+    "primary_diagnosis": "Vertigo",
+    "medications": [
+      "Losartan 50mg daily",
+      "Aspirin 75mg daily"
+    ],
+    "dietary_restrictions": "Low fat, cardiac diet",
+    "follow_up": "General physician in 1 week",
+    "warning_signs": "Severe fatigue, jaundice",
+    "discharge_instructions": "Check blood sugar levels twice daily"
+  },
+  {
+    "patient_name": "Alexander Clark",
+    "discharge_date": "2024-02-15",
+    "primary_diagnosis": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "medications": [
+      "Ibuprofen 400mg as needed"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Endocrinology in 3 weeks",
+    "warning_signs": "Mood changes, suicidal thoughts",
+    "discharge_instructions": "Avoid lifting heavy objects"
+  },
+  {
+    "patient_name": "Harper Rodriguez",
+    "discharge_date": "2024-05-20",
+    "primary_diagnosis": "Coronary Artery Disease",
+    "medications": [
+      "Losartan 50mg daily",
+      "Aspirin 75mg daily"
+    ],
+    "dietary_restrictions": "Gluten-free diet",
+    "follow_up": "ENT clinic after 1 week",
+    "warning_signs": "Mood changes, suicidal thoughts",
+    "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily"
+  },
+  {
+    "patient_name": "Elijah Lewis",
+    "discharge_date": "2024-04-15",
+    "primary_diagnosis": "Type 2 Diabetes Mellitus",
+    "medications": [
+      "Prednisolone 10mg daily",
+      "Salbutamol inhaler as needed"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Psychiatric consultation in 3 weeks",
+    "warning_signs": "High fever, persistent vomiting",
+    "discharge_instructions": "Take medicines regularly, avoid smoking and alcohol"
+  },
+  {
+    "patient_name": "Abigail Lee",
+    "discharge_date": "2024-08-26",
+    "primary_diagnosis": "Migraine Headache",
+    "medications": [
+      "Metformin 500mg twice daily",
+      "Atorvastatin 20mg daily"
+    ],
+    "dietary_restrictions": "Low fat, cardiac diet",
+    "follow_up": "General physician in 1 week",
+    "warning_signs": "Difficulty breathing, wheezing",
+    "discharge_instructions": "Avoid lifting heavy objects"
+  },
+  {
+    "patient_name": "Daniel Walker",
+    "discharge_date": "2024-10-11",
+    "primary_diagnosis": "Hypothyroidism",
+    "medications": [
+      "Ibuprofen 400mg as needed"
+    ],
+    "dietary_restrictions": "Gluten-free diet",
+    "follow_up": "Endocrinology in 3 weeks",
+    "warning_signs": "Abdominal pain, black stools",
+    "discharge_instructions": "Check blood sugar levels twice daily"
+  },
+  {
+    "patient_name": "Ella Hall",
+    "discharge_date": "2024-09-06",
+    "primary_diagnosis": "Heart Failure with Reduced Ejection Fraction",
+    "medications": [
+      "Sertraline 50mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Psychiatric consultation in 3 weeks",
+    "warning_signs": "Difficulty breathing, wheezing",
+    "discharge_instructions": "Avoid lifting heavy objects"
+  },
+  {
+    "patient_name": "Matthew Allen",
+    "discharge_date": "2024-01-16",
+    "primary_diagnosis": "Epilepsy",
+    "medications": [
+      "Metformin 500mg twice daily",
+      "Atorvastatin 20mg daily"
+    ],
+    "dietary_restrictions": "Low sugar, diabetic-friendly diet",
+    "follow_up": "General physician in 1 week",
+    "warning_signs": "High fever, persistent vomiting",
+    "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily"
+  }
+]
