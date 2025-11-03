@@ -258,25 +258,25 @@ NEPHROLOGY_PDF_PATH=backend/data/nephrology_refs/comprehensive-clinical-nephrolo
 1️⃣ Create your folder → post_discharge_medical_ai_poc/\
 2️⃣ Inside it, make these files:
 
-# 1. Clone & Enter
+1. Clone & Enter
 git clone https://github.com/shubhamragade/Post-Discharge-ai-assitence.git
 cd post_discharge_medical_ai_poc
 
-# 2. Virtual Env
+2. Virtual Env
 python -m venv .venv && source .venv/bin/activate   # mac/linux
-# .\ .venv\Scripts\activate   # windows
+.\ .venv\Scripts\activate   # windows
 
-# 3. Install
+ 3. Install
 pip install -r requirements.txt
 
-# 4. Add your key
+. Add your key
 cp .env.example .env
-# → paste GROQ_API_KEY=gho_...
+ → paste GROQ_API_KEY=gho_...
 
-# 5. Launch
-# Terminal 1
+ 5. Launch
+Terminal 1
 uvicorn backend.app.main:app --reload
 
-# Terminal 2
+Terminal 2
 streamlit run frontend/streamlit_app.py
 
