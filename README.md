@@ -20,14 +20,14 @@ It leverages **Retrieval-Augmented Generation (RAG)**, **LLM reasoning**, and **
 
 ## 🧩 **System Architecture**
 
-
+```
 flowchart TD
 A[👤 Patient] -->|Query| B[🤖 Receptionist Agent]
 B -->|Medical Query Detected| C[🩺 Clinical Agent]
 C -->|RAG Context Retrieval| D[(📚 ChromaDB - Nephrology PDF)]
 C -->|If Not Found| E[🌍 Web Search (DuckDuckGo)]
 C -->|Response| F[💬 Streamlit Chat UI]
-
+```
 
 ⚙️ Tech Stack
 LayerTechnologyFrontendStreamlitBackendFastAPILLMGroq API (Llama-3.1-8b-instant)RAG EngineLangChain + ChromaDBEmbeddingssentence-transformers/all-MiniLM-L6-v2Web Searchddgs (DuckDuckGo Search)Data SourceComprehensive Clinical Nephrology (PDF)LoggingPython logging + JSON
@@ -98,7 +98,7 @@ Sample Log:
 * Context is passed to Clinical Agent for response generation
 
 🏗️ Project Structure
-
+```
 
 post_discharge_medical_ai_poc/
 │
@@ -129,7 +129,7 @@ post_discharge_medical_ai_poc/
 │
 └── README.md
 
-
+```
 💬 Example Interaction
 👤 Patient: “I'm having swelling in my legs. Should I be worried?”\
 🤖 Receptionist Agent: “This sounds like a medical concern. Let me connect you with our Clinical AI Agent.”\
@@ -141,11 +141,11 @@ post_discharge_medical_ai_poc/
 🚀 Running the Project
 1️⃣ Create Virtual Environment
 
-
+```
 python -m venv .venv
 .\.venv\Scripts\activate   # (Windows)
 source .venv/bin/activate  # (Linux/Mac)
-
+```
 
 2️⃣ Install Dependencies
 
