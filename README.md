@@ -1,6 +1,4 @@
-1. README.md
 
-````
 # 🏥 **Post-Discharge Medical AI Assistant**
 
 ## 📘 **Overview**
@@ -22,14 +20,14 @@ It leverages **Retrieval-Augmented Generation (RAG)**, **LLM reasoning**, and **
 
 ## 🧩 **System Architecture**
 
-```mermaid
+
 flowchart TD
 A[👤 Patient] -->|Query| B[🤖 Receptionist Agent]
 B -->|Medical Query Detected| C[🩺 Clinical Agent]
 C -->|RAG Context Retrieval| D[(📚 ChromaDB - Nephrology PDF)]
 C -->|If Not Found| E[🌍 Web Search (DuckDuckGo)]
 C -->|Response| F[💬 Streamlit Chat UI]
-````
+
 
 ⚙️ Tech Stack
 LayerTechnologyFrontendStreamlitBackendFastAPILLMGroq API (Llama-3.1-8b-instant)RAG EngineLangChain + ChromaDBEmbeddingssentence-transformers/all-MiniLM-L6-v2Web Searchddgs (DuckDuckGo Search)Data SourceComprehensive Clinical Nephrology (PDF)LoggingPython logging + JSON
@@ -83,7 +81,6 @@ All agent interactions are recorded for auditing and debugging.
 📂 Location: backend/logs/chat_memory.json
 Sample Log:
 
-```
 {
   "timestamp": "2025-11-02T10:01:00",
   "agent": "clinical",
@@ -91,7 +88,6 @@ Sample Log:
   "query": "I'm having swelling in my legs",
   "response": "Based on CKD guidelines..."
 }
-```
 
 🧠 Patient Data Retrieval
 
@@ -103,7 +99,7 @@ Sample Log:
 
 🏗️ Project Structure
 
-```
+
 post_discharge_medical_ai_poc/
 │
 ├── backend/
@@ -132,7 +128,7 @@ post_discharge_medical_ai_poc/
 │       └── chat_ui.py
 │
 └── README.md
-```
+
 
 💬 Example Interaction
 👤 Patient: “I'm having swelling in my legs. Should I be worried?”\
@@ -145,11 +141,11 @@ post_discharge_medical_ai_poc/
 🚀 Running the Project
 1️⃣ Create Virtual Environment
 
-```
+
 python -m venv .venv
 .\.venv\Scripts\activate   # (Windows)
 source .venv/bin/activate  # (Linux/Mac)
-```
+
 
 2️⃣ Install Dependencies
 
